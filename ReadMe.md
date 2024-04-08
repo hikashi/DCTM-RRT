@@ -1,4 +1,4 @@
-# Distributed Temporal Memory-based RRT Exploration (DTM-RRT)
+# DCTM-RRT: Distributed and Communication-aware Memory-based RRT Exploration
 
 Preparing...
 
