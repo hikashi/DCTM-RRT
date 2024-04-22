@@ -2,10 +2,7 @@
 
 Preparing...
 
-Meanwhile, here is a video of the experimental result:
+Meanwhile, here is a video of the result for DCTM-RRT exploration:
 
-[![DCTM-RRT Exploration](https://img.youtube.com/vi/hW2qSqmuabg/0.jpg)](https://www.youtube.com/watch?v=hW2qSqmuabg "DCTM-RRT Exploration")
+[![DCTM-RRT Exploration](https://img.youtube.com/vi/0KG1NSEqdGE/0.jpg)](https://www.youtube.com/watch?v=0KG1NSEqdGE "DCTM-RRT Exploration")
 
-Simulation Video:
-
-[![DCTM-RRT Exploration](https://img.youtube.com/vi/Ho4775bCk_o/0.jpg)](https://www.youtube.com/watch?v=Ho4775bCk_o "DCTM-RRT Exploration")
